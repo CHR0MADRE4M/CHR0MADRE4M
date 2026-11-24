@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="735" height="490" alt="41ff7b36d478efe1d143af3d5bbc8733" src="https://github.com/user-attachments/assets/ae431699-a0ce-4fb5-b13b-d18933146f0d" />
 
 <!--
 **CHR0MADRE4M/CHR0MADRE4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
